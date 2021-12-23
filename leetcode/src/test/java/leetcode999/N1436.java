@@ -8,7 +8,6 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author shuxuezhao
  * @date 2021/10/1
  */
 public class N1436 {
